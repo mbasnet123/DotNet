@@ -6,7 +6,12 @@
     <RootNamespace>C_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartUpObject>LeapYear</StartUpObject>
+    <!-- <StartUpObject>Lab2.Guess.GuessingGame</StartUpObject> -->
+    <!-- <StartUpObject>Lab2.Integer.PositiveInteger</StartUpObject> -->
+    <!-- <StartUpObject>Lab2.Prime.PrimeNumber</StartUpObject> -->
+    <!-- <StartUpObject>Lab2.Odd.OddNumber</StartUpObject> -->
+    <!-- <StartUpObject>Lab2.Go.Goto</StartUpObject> -->
+    <StartUpObject>Lab2.Array.LargestNumberInArray</StartUpObject>
   </PropertyGroup>
 
 </Project>
