@@ -12,7 +12,7 @@
     <!-- <StartUpObject>Lab2.Odd.OddNumber</StartUpObject> -->
     <!-- <StartUpObject>Lab2.Go.Goto</StartUpObject> -->
     <!-- <StartUpObject>Lab2.Array.LargestNumberInArray</StartUpObject> -->
-    <StartUpObject>Lab3.Student.Student</StartUpObject>
+    <StartUpObject>DataTypesConversion7</StartUpObject>
   </PropertyGroup>
 
 </Project>
